@@ -1,0 +1,272 @@
+22 traveling: South Bound at time: 2015-04-10 21:35:42.852456 distance: 0.979936965154 miles
+22 traveling: North Bound at time: 2015-04-10 21:35:42.939799 distance: 0.568655231007 miles
+22 traveling: North Bound at time: 2015-04-10 21:35:43.196717 distance: 0.526261665517 miles
+22 traveling: North Bound at time: 2015-04-10 21:35:43.486443 distance: 0.0486272780915 miles
+22 traveling: South Bound at time: 2015-04-11 11:29:55.373313 distance: 0.342980468793 miles
+22 traveling: South Bound at time: 2015-04-12 13:16:04.314349 distance: 0.979936965154 miles
+22 traveling: South Bound at time: 2015-04-12 13:16:05.955863 distance: 0.295101243896 miles
+22 traveling: North Bound at time: 2015-04-12 13:16:06.109945 distance: 0.0750768086226 miles
+22 traveling: North Bound at time: 2015-04-12 13:16:32.171829 distance: 0.181576589048 miles
+22 traveling: South Bound at time: 2015-04-13 20:53:53.258012 distance: 0.373622636395 miles
+22 traveling: South Bound at time: 2015-04-13 21:41:56.193478 distance: 1.19883512058 miles
+22 traveling: South Bound at time: 2015-04-13 21:42:58.389963 distance: 1.33487322473 miles
+22 traveling: South Bound at time: 2015-04-13 21:43:58.750166 distance: 1.98724650178 miles
+22 traveling: South East Bound at time: 2015-04-13 21:43:58.893262 distance: 1.84926126516 miles
+22 traveling: South Bound at time: 2015-04-13 21:44:59.318887 distance: 1.74412355202 miles
+22 traveling: North West Bound at time: 2015-04-13 21:45:00.018372 distance: 1.96451829354 miles
+22 traveling: South Bound at time: 2015-04-13 21:46:02.218297 distance: 1.54228807721 miles
+22 traveling: North Bound at time: 2015-04-13 21:46:02.300059 distance: 1.87039033502 miles
+22 traveling: North West Bound at time: 2015-04-13 21:46:02.528982 distance: 1.8455156437 miles
+22 traveling: South Bound at time: 2015-04-13 21:47:03.059485 distance: 1.46711197077 miles
+22 traveling: North Bound at time: 2015-04-13 21:47:03.308215 distance: 1.87039033502 miles
+22 traveling: North West Bound at time: 2015-04-13 21:47:03.532837 distance: 1.71197996443 miles
+22 traveling: South Bound at time: 2015-04-13 21:48:04.123176 distance: 1.36602004506 miles
+22 traveling: North West Bound at time: 2015-04-13 21:48:04.801945 distance: 1.7142199338 miles
+22 traveling: North Bound at time: 2015-04-13 21:48:04.993166 distance: 1.36274023876 miles
+22 traveling: South Bound at time: 2015-04-13 21:49:05.583349 distance: 1.07853280868 miles
+22 traveling: North Bound at time: 2015-04-13 21:49:06.124145 distance: 1.43672963746 miles
+22 traveling: North Bound at time: 2015-04-13 21:49:06.333450 distance: 1.12414345671 miles
+22 traveling: South Bound at time: 2015-04-13 21:50:08.332538 distance: 0.706153704305 miles
+22 traveling: North Bound at time: 2015-04-13 21:50:08.670458 distance: 1.17821160629 miles
+22 traveling: North Bound at time: 2015-04-13 21:50:08.873247 distance: 0.926081977233 miles
+22 traveling: South Bound at time: 2015-04-13 21:51:09.326838 distance: 0.587766869045 miles
+22 traveling: North Bound at time: 2015-04-13 21:51:09.907917 distance: 0.998620357952 miles
+22 traveling: North Bound at time: 2015-04-13 21:51:10.095356 distance: 0.774567516318 miles
+22 traveling: South Bound at time: 2015-04-14 17:38:41.141909 distance: 0.171400807288 miles
+22 traveling: North Bound at time: 2015-04-14 17:38:41.798951 distance: 0.977322694256 miles
+22 traveling: North Bound at time: 2015-04-14 17:38:41.898647 distance: 0.245544823833 miles
+22 traveling: North Bound at time: 2015-04-14 17:38:42.092368 distance: 0.171081266459 miles
+22 traveling: South Bound at time: 2015-04-15 14:31:02.402615 distance: 0.393391473371 miles
+22 traveling: North Bound at time: 2015-04-15 14:31:03.382375 distance: 1.03491055745 miles
+22 traveling: North Bound at time: 2015-04-15 14:31:03.566934 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:31:03.790594 distance: 0.306413187006 miles
+22 traveling: North Bound at time: 2015-04-15 14:31:03.999659 distance: 1.60453635299 miles
+22 traveling: South Bound at time: 2015-04-15 14:32:04.621263 distance: 0.536085516438 miles
+22 traveling: North Bound at time: 2015-04-15 14:32:04.702147 distance: 0.827180800893 miles
+22 traveling: North Bound at time: 2015-04-15 14:32:04.906940 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:32:05.117731 distance: 0.306413187006 miles
+22 traveling: North Bound at time: 2015-04-15 14:32:05.324888 distance: 1.75623594103 miles
+22 traveling: South Bound at time: 2015-04-15 14:33:06.078683 distance: 0.646188043333 miles
+22 traveling: North Bound at time: 2015-04-15 14:33:06.157109 distance: 0.77854335166 miles
+22 traveling: North Bound at time: 2015-04-15 14:33:06.365271 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:33:06.583128 distance: 0.234952567743 miles
+22 traveling: North Bound at time: 2015-04-15 14:33:06.809572 distance: 1.92894821863 miles
+22 traveling: South Bound at time: 2015-04-15 14:34:07.401926 distance: 0.760790008597 miles
+22 traveling: North Bound at time: 2015-04-15 14:34:07.625707 distance: 0.574926116746 miles
+22 traveling: North Bound at time: 2015-04-15 14:34:07.805324 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:34:08.038081 distance: 0.552638105147 miles
+22 traveling: South Bound at time: 2015-04-15 14:35:08.632414 distance: 0.790653337858 miles
+22 traveling: North Bound at time: 2015-04-15 14:35:08.916499 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:35:09.110332 distance: 0.316178037286 miles
+22 traveling: North Bound at time: 2015-04-15 14:35:09.313045 distance: 0.719536101349 miles
+22 traveling: South Bound at time: 2015-04-15 14:36:09.918400 distance: 0.938079321363 miles
+22 traveling: North Bound at time: 2015-04-15 14:36:10.207396 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:36:10.428966 distance: 0.225718859054 miles
+22 traveling: North Bound at time: 2015-04-15 14:36:10.672216 distance: 0.848126903319 miles
+22 traveling: South Bound at time: 2015-04-15 14:37:11.281976 distance: 1.08874017738 miles
+22 traveling: North Bound at time: 2015-04-15 14:37:11.867555 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:37:11.997438 distance: 0.170895106168 miles
+22 traveling: North Bound at time: 2015-04-15 14:37:12.168409 distance: 1.00252849547 miles
+22 traveling: South Bound at time: 2015-04-15 14:38:13.328552 distance: 1.20400616251 miles
+22 traveling: North Bound at time: 2015-04-15 14:38:13.671052 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:38:13.792449 distance: 0.0804723193477 miles
+22 traveling: North Bound at time: 2015-04-15 14:38:13.950348 distance: 1.20290662269 miles
+22 traveling: South Bound at time: 2015-04-15 14:39:14.513184 distance: 1.89220212909 miles
+22 traveling: South Bound at time: 2015-04-15 14:39:14.793063 distance: 1.32377040864 miles
+22 traveling: North Bound at time: 2015-04-15 14:39:14.911209 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:39:15.031740 distance: 0.211251038556 miles
+22 traveling: North Bound at time: 2015-04-15 14:39:15.166146 distance: 1.20290662269 miles
+22 traveling: South Bound at time: 2015-04-15 14:40:15.716010 distance: 1.74055943674 miles
+22 traveling: South East Bound at time: 2015-04-15 14:40:15.878050 distance: 1.67030975048 miles
+22 traveling: North Bound at time: 2015-04-15 14:40:15.986497 distance: 0.312422051519 miles
+22 traveling: North West Bound at time: 2015-04-15 14:40:16.115365 distance: 0.222097170432 miles
+22 traveling: North Bound at time: 2015-04-15 14:40:16.250136 distance: 1.29659908397 miles
+22 traveling: South Bound at time: 2015-04-15 14:41:16.877495 distance: 1.60881623 miles
+22 traveling: South East Bound at time: 2015-04-15 14:41:17.203727 distance: 1.67603041969 miles
+22 traveling: North West Bound at time: 2015-04-15 14:41:17.319366 distance: 1.96468508373 miles
+22 traveling: North Bound at time: 2015-04-15 14:41:17.474811 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:41:17.649261 distance: 0.544474574609 miles
+22 traveling: North Bound at time: 2015-04-15 14:41:17.841328 distance: 1.37741434788 miles
+22 traveling: South Bound at time: 2015-04-15 14:42:18.410053 distance: 1.55510672696 miles
+22 traveling: South East Bound at time: 2015-04-15 14:42:18.911836 distance: 1.84462005092 miles
+22 traveling: North West Bound at time: 2015-04-15 14:42:19.037318 distance: 1.9060278612 miles
+22 traveling: North Bound at time: 2015-04-15 14:42:19.162194 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:42:19.310641 distance: 0.615634104691 miles
+22 traveling: North Bound at time: 2015-04-15 14:42:19.469688 distance: 1.60563234419 miles
+22 traveling: South Bound at time: 2015-04-15 14:43:20.108737 distance: 1.55510672696 miles
+22 traveling: South East Bound at time: 2015-04-15 14:43:20.499160 distance: 1.93209550088 miles
+22 traveling: North West Bound at time: 2015-04-15 14:43:20.638841 distance: 1.85611311754 miles
+22 traveling: North Bound at time: 2015-04-15 14:43:20.772831 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:43:20.909886 distance: 0.840499670005 miles
+22 traveling: North Bound at time: 2015-04-15 14:43:21.117055 distance: 1.90638930662 miles
+22 traveling: South Bound at time: 2015-04-15 14:44:21.681671 distance: 1.46905145918 miles
+22 traveling: North West Bound at time: 2015-04-15 14:44:21.927973 distance: 1.86175657812 miles
+22 traveling: North West Bound at time: 2015-04-15 14:44:22.054154 distance: 1.71365993255 miles
+22 traveling: North Bound at time: 2015-04-15 14:44:22.183303 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:44:22.338408 distance: 1.00980773399 miles
+22 traveling: North Bound at time: 2015-04-15 14:44:22.523041 distance: 1.97500459529 miles
+22 traveling: South Bound at time: 2015-04-15 14:45:23.053542 distance: 1.32375630299 miles
+22 traveling: North West Bound at time: 2015-04-15 14:45:23.420098 distance: 1.7045183742 miles
+22 traveling: North Bound at time: 2015-04-15 14:45:23.544906 distance: 1.43802033176 miles
+22 traveling: North Bound at time: 2015-04-15 14:45:23.685807 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:45:23.869819 distance: 1.1030827507 miles
+22 traveling: North Bound at time: 2015-04-15 14:45:24.050802 distance: 1.97500459529 miles
+22 traveling: South Bound at time: 2015-04-15 14:46:24.667234 distance: 1.94956086225 miles
+22 traveling: South Bound at time: 2015-04-15 14:46:25.027349 distance: 1.25222738294 miles
+22 traveling: North West Bound at time: 2015-04-15 14:46:25.149275 distance: 1.7045183742 miles
+22 traveling: North Bound at time: 2015-04-15 14:46:25.274680 distance: 1.35741586243 miles
+22 traveling: North Bound at time: 2015-04-15 14:46:25.431068 distance: 0.312422051519 miles
+22 traveling: North West Bound at time: 2015-04-15 14:46:25.588493 distance: 1.21689868831 miles
+22 traveling: South Bound at time: 2015-04-15 14:47:26.185120 distance: 1.94956086225 miles
+22 traveling: South Bound at time: 2015-04-15 14:47:26.436714 distance: 1.23705785378 miles
+22 traveling: North Bound at time: 2015-04-15 14:47:26.574155 distance: 1.34995946278 miles
+22 traveling: North Bound at time: 2015-04-15 14:47:26.733915 distance: 1.34768012586 miles
+22 traveling: North Bound at time: 2015-04-15 14:47:26.888023 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:47:27.073263 distance: 1.29783923477 miles
+22 traveling: South Bound at time: 2015-04-15 14:48:27.598041 distance: 1.71309020422 miles
+22 traveling: South Bound at time: 2015-04-15 14:48:27.854071 distance: 1.23705785378 miles
+22 traveling: North Bound at time: 2015-04-15 14:48:27.988153 distance: 1.32696802227 miles
+22 traveling: North Bound at time: 2015-04-15 14:48:28.153500 distance: 1.1324897754 miles
+22 traveling: North Bound at time: 2015-04-15 14:48:28.310358 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:48:28.453569 distance: 1.60779562487 miles
+22 traveling: South Bound at time: 2015-04-15 14:49:29.003602 distance: 1.5897582428 miles
+22 traveling: South Bound at time: 2015-04-15 14:49:29.287928 distance: 1.13335471798 miles
+22 traveling: North Bound at time: 2015-04-15 14:49:29.487093 distance: 1.03624214511 miles
+22 traveling: North Bound at time: 2015-04-15 14:49:29.657496 distance: 0.942149919239 miles
+22 traveling: North Bound at time: 2015-04-15 14:49:29.800379 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:49:29.933517 distance: 1.77309230794 miles
+22 traveling: South Bound at time: 2015-04-15 14:50:30.468198 distance: 1.58840212694 miles
+22 traveling: South Bound at time: 2015-04-15 14:50:30.790153 distance: 0.979936965154 miles
+22 traveling: North Bound at time: 2015-04-15 14:50:30.924212 distance: 0.927209135978 miles
+22 traveling: North Bound at time: 2015-04-15 14:50:31.048343 distance: 0.766228193464 miles
+22 traveling: North Bound at time: 2015-04-15 14:50:31.177960 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:50:31.343275 distance: 1.925043109 miles
+22 traveling: South Bound at time: 2015-04-15 14:51:32.184229 distance: 1.48384098452 miles
+22 traveling: South Bound at time: 2015-04-15 14:51:32.563263 distance: 0.836462641694 miles
+22 traveling: North Bound at time: 2015-04-15 14:51:32.688434 distance: 0.78289791857 miles
+22 traveling: North Bound at time: 2015-04-15 14:51:32.820512 distance: 0.596759433442 miles
+22 traveling: North Bound at time: 2015-04-15 14:51:32.979444 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 14:52:33.783180 distance: 1.3246851503 miles
+22 traveling: South Bound at time: 2015-04-15 14:52:34.061229 distance: 0.678086994207 miles
+22 traveling: North West Bound at time: 2015-04-15 14:52:34.201403 distance: 1.91093533436 miles
+22 traveling: North Bound at time: 2015-04-15 14:52:34.345030 distance: 0.592047003117 miles
+22 traveling: North Bound at time: 2015-04-15 14:52:34.512684 distance: 0.46764967457 miles
+22 traveling: North Bound at time: 2015-04-15 14:52:34.658024 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 14:53:35.248988 distance: 1.23953612122 miles
+22 traveling: South Bound at time: 2015-04-15 14:53:35.588977 distance: 0.664340045251 miles
+22 traveling: North West Bound at time: 2015-04-15 14:53:35.714006 distance: 1.68985376509 miles
+22 traveling: North Bound at time: 2015-04-15 14:53:35.825377 distance: 0.325214270448 miles
+22 traveling: North Bound at time: 2015-04-15 14:53:35.972856 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:53:36.130860 distance: 0.228987123434 miles
+22 traveling: South Bound at time: 2015-04-15 14:54:38.720187 distance: 1.21734679667 miles
+22 traveling: South Bound at time: 2015-04-15 14:54:38.803318 distance: 0.504065391048 miles
+22 traveling: North Bound at time: 2015-04-15 14:54:38.946493 distance: 1.35818071306 miles
+22 traveling: North Bound at time: 2015-04-15 14:54:39.060261 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:54:39.194302 distance: 0.22688849181 miles
+22 traveling: North Bound at time: 2015-04-15 14:54:39.362030 distance: 0.172570705876 miles
+22 traveling: South Bound at time: 2015-04-15 14:55:39.919053 distance: 0.95477068804 miles
+22 traveling: South East Bound at time: 2015-04-15 14:55:40.336446 distance: 0.366582137055 miles
+22 traveling: North Bound at time: 2015-04-15 14:55:40.456196 distance: 1.2354075085 miles
+22 traveling: North Bound at time: 2015-04-15 14:55:40.588058 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:55:40.722030 distance: 0.0821510532473 miles
+22 traveling: North Bound at time: 2015-04-15 14:55:40.864939 distance: 0.0497344155683 miles
+22 traveling: South Bound at time: 2015-04-15 14:56:41.529419 distance: 0.73603240663 miles
+22 traveling: South Bound at time: 2015-04-15 14:56:41.898679 distance: 0.24364662915 miles
+22 traveling: North Bound at time: 2015-04-15 14:56:42.041187 distance: 0.982541426405 miles
+22 traveling: North Bound at time: 2015-04-15 14:56:42.167493 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:56:42.311790 distance: 0.0821510532473 miles
+22 traveling: North Bound at time: 2015-04-15 14:56:42.455517 distance: 0.0770667998069 miles
+22 traveling: South Bound at time: 2015-04-15 14:57:43.140142 distance: 0.503714687439 miles
+22 traveling: South Bound at time: 2015-04-15 14:57:43.410135 distance: 0.169846357495 miles
+22 traveling: North Bound at time: 2015-04-15 14:57:43.546438 distance: 0.787933091263 miles
+22 traveling: North Bound at time: 2015-04-15 14:57:43.677610 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:57:43.843059 distance: 0.0770667998069 miles
+22 traveling: North Bound at time: 2015-04-15 14:57:44.034925 distance: 0.0776339414774 miles
+22 traveling: South Bound at time: 2015-04-15 14:58:44.589338 distance: 1.89980542087 miles
+22 traveling: South Bound at time: 2015-04-15 14:58:44.743217 distance: 0.361047123164 miles
+22 traveling: South Bound at time: 2015-04-15 14:58:44.849084 distance: 0.169846357495 miles
+22 traveling: North Bound at time: 2015-04-15 14:58:44.975949 distance: 0.775324811911 miles
+22 traveling: North Bound at time: 2015-04-15 14:58:45.154914 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:58:45.491163 distance: 0.312994387826 miles
+22 traveling: North Bound at time: 2015-04-15 14:58:45.872838 distance: 0.325495668951 miles
+22 traveling: South Bound at time: 2015-04-15 14:59:46.436406 distance: 1.68806108133 miles
+22 traveling: South Bound at time: 2015-04-15 14:59:46.738427 distance: 0.222243144472 miles
+22 traveling: South Bound at time: 2015-04-15 14:59:46.879999 distance: 0.161934889014 miles
+22 traveling: North Bound at time: 2015-04-15 14:59:47.028991 distance: 0.511944686001 miles
+22 traveling: North Bound at time: 2015-04-15 14:59:47.187702 distance: 0.312422051519 miles
+22 traveling: North Bound at time: 2015-04-15 14:59:47.343872 distance: 0.338951483988 miles
+22 traveling: North Bound at time: 2015-04-15 14:59:47.503323 distance: 0.552837402076 miles
+22 traveling: South East Bound at time: 2015-04-15 15:00:48.091230 distance: 1.46852250609 miles
+22 traveling: South Bound at time: 2015-04-15 15:00:49.583131 distance: 0.222243144472 miles
+22 traveling: South Bound at time: 2015-04-15 15:00:49.721166 distance: 0.279437571047 miles
+22 traveling: North Bound at time: 2015-04-15 15:00:49.863959 distance: 0.312422051519 miles
+22 traveling: North West Bound at time: 2015-04-15 15:00:50.024763 distance: 1.8936727596 miles
+22 traveling: North Bound at time: 2015-04-15 15:00:50.189835 distance: 0.511944686001 miles
+22 traveling: North Bound at time: 2015-04-15 15:00:50.386582 distance: 0.376640840979 miles
+22 traveling: North Bound at time: 2015-04-15 15:00:50.535766 distance: 0.627381045442 miles
+22 traveling: South Bound at time: 2015-04-15 15:01:51.110367 distance: 1.3517792172 miles
+22 traveling: South Bound at time: 2015-04-15 15:01:51.506554 distance: 0.0924975206229 miles
+22 traveling: South Bound at time: 2015-04-15 15:01:51.652237 distance: 0.279437571047 miles
+22 traveling: North Bound at time: 2015-04-15 15:01:53.789761 distance: 0.312422051519 miles
+22 traveling: North West Bound at time: 2015-04-15 15:01:54.033565 distance: 1.8158932535 miles
+22 traveling: North Bound at time: 2015-04-15 15:01:54.234262 distance: 0.316836713153 miles
+22 traveling: North Bound at time: 2015-04-15 15:01:54.396138 distance: 0.550047141237 miles
+22 traveling: North Bound at time: 2015-04-15 15:01:54.558918 distance: 0.730488651479 miles
+22 traveling: South Bound at time: 2015-04-15 15:02:55.114531 distance: 1.23934547938 miles
+22 traveling: South Bound at time: 2015-04-15 15:02:55.420941 distance: 0.153593904889 miles
+22 traveling: North Bound at time: 2015-04-15 15:02:55.564565 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 15:02:55.696738 distance: 0.314535400357 miles
+22 traveling: North Bound at time: 2015-04-15 15:02:55.863785 distance: 1.60512250708 miles
+22 traveling: North Bound at time: 2015-04-15 15:02:56.174817 distance: 0.316836713153 miles
+22 traveling: North Bound at time: 2015-04-15 15:02:56.308277 distance: 0.550047141237 miles
+22 traveling: North Bound at time: 2015-04-15 15:02:56.557823 distance: 0.999937141299 miles
+22 traveling: South Bound at time: 2015-04-15 15:03:57.098478 distance: 1.09330596258 miles
+22 traveling: South Bound at time: 2015-04-15 15:03:58.161126 distance: 0.196770839137 miles
+22 traveling: North Bound at time: 2015-04-15 15:03:58.317983 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 15:03:58.482767 distance: 0.635493504659 miles
+22 traveling: North Bound at time: 2015-04-15 15:03:58.638956 distance: 1.33972909606 miles
+22 traveling: North Bound at time: 2015-04-15 15:03:58.791549 distance: 0.306413187006 miles
+22 traveling: North Bound at time: 2015-04-15 15:03:58.951664 distance: 0.841244209126 miles
+22 traveling: North Bound at time: 2015-04-15 15:03:59.101568 distance: 1.10531774356 miles
+22 traveling: South Bound at time: 2015-04-15 15:04:59.636503 distance: 0.981149084256 miles
+22 traveling: South Bound at time: 2015-04-15 15:04:59.749474 distance: 0.275365483115 miles
+22 traveling: North Bound at time: 2015-04-15 15:04:59.881037 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 15:05:00.146724 distance: 0.792713621264 miles
+22 traveling: North Bound at time: 2015-04-15 15:05:00.304907 distance: 1.12564846664 miles
+22 traveling: North Bound at time: 2015-04-15 15:05:00.475316 distance: 0.306413187006 miles
+22 traveling: North Bound at time: 2015-04-15 15:05:00.623884 distance: 1.10736648371 miles
+22 traveling: North Bound at time: 2015-04-15 15:05:00.760353 distance: 1.20364445967 miles
+22 traveling: South Bound at time: 2015-04-15 15:06:01.446499 distance: 0.737913123351 miles
+22 traveling: South Bound at time: 2015-04-15 15:06:02.563044 distance: 0.291230301505 miles
+22 traveling: North Bound at time: 2015-04-15 15:06:02.756529 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 15:06:02.905615 distance: 0.85862448905 miles
+22 traveling: North Bound at time: 2015-04-15 15:06:03.059780 distance: 0.944866506284 miles
+22 traveling: North Bound at time: 2015-04-15 15:06:03.265150 distance: 0.0162756325605 miles
+22 traveling: North Bound at time: 2015-04-15 15:06:03.409499 distance: 1.21334024365 miles
+22 traveling: North Bound at time: 2015-04-15 15:06:03.547787 distance: 1.35742776716 miles
+22 traveling: South Bound at time: 2015-04-15 15:07:04.164788 distance: 0.677009635591 miles
+22 traveling: North Bound at time: 2015-04-15 15:07:05.208343 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 15:07:05.351739 distance: 0.317387007691 miles
+22 traveling: South Bound at time: 2015-04-15 15:07:05.568221 distance: 0.948429666261 miles
+22 traveling: North Bound at time: 2015-04-15 15:07:05.722250 distance: 0.928524246837 miles
+22 traveling: North Bound at time: 2015-04-15 15:07:05.899292 distance: 0.0768778133025 miles
+22 traveling: North Bound at time: 2015-04-15 15:07:06.053107 distance: 1.30226844304 miles
+22 traveling: North Bound at time: 2015-04-15 15:07:06.188066 distance: 1.49433212003 miles
+22 traveling: South Bound at time: 2015-04-15 15:08:06.778415 distance: 1.93884363394 miles
+22 traveling: South Bound at time: 2015-04-15 15:08:07.535328 distance: 0.665314992279 miles
+22 traveling: North Bound at time: 2015-04-15 15:08:07.680794 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 15:08:07.826774 distance: 0.400489191962 miles
+22 traveling: South Bound at time: 2015-04-15 15:08:08.073787 distance: 1.21053298025 miles
+22 traveling: North Bound at time: 2015-04-15 15:08:08.278965 distance: 0.779868644829 miles
+22 traveling: North Bound at time: 2015-04-15 15:08:08.477595 distance: 0.209411947421 miles
+22 traveling: North West Bound at time: 2015-04-15 15:08:08.634078 distance: 1.37636676885 miles
+22 traveling: North Bound at time: 2015-04-15 15:08:08.812658 distance: 1.71933973912 miles
+22 traveling: South Bound at time: 2015-04-15 15:09:09.333714 distance: 1.69100058403 miles
+22 traveling: South Bound at time: 2015-04-15 15:09:09.673956 distance: 0.398442164566 miles
+22 traveling: North Bound at time: 2015-04-15 15:09:09.810518 distance: 0.312422051519 miles
+22 traveling: South Bound at time: 2015-04-15 15:09:09.991605 distance: 0.538687934877 miles
+22 traveling: South East Bound at time: 2015-04-15 15:09:10.172189 distance: 1.66996310738 miles
+22 traveling: North Bound at time: 2015-04-15 15:09:10.325788 distance: 0.596759433442 miles
+22 traveling: North Bound at time: 2015-04-15 15:09:10.551126 distance: 0.209411947421 miles
+22 traveling: North Bound at time: 2015-04-15 15:09:10.711930 distance: 1.47940787158 miles
+22 traveling: North Bound at time: 2015-04-15 15:09:10.904810 distance: 1.87034494656 miles
